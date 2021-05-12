@@ -27,7 +27,7 @@
         "@fortawesome/fontawesome-free": "^5.11.2",
         "bootstrap": "^4.3.1",
         "bulma": "^0.7.5",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "icheck-bootstrap": "^3.0.1",
         "jquery": "^3.4.1",
         "overlayscrollbars": "^1.10.0",
